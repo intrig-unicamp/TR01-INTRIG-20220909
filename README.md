@@ -1,5 +1,5 @@
 # TR01-INTRIG-20220909
-Raphael Vicente Rosa, David Moura, Christian Esteve Rothenberg. "Redes 4G/5G Comunitárias no Brasil" Technical Report TR01-INTRIG-20220909, Sep. 2020. 
+Raphael Vicente Rosa, David Moura, Christian Esteve Rothenberg. "Redes 4G/5G Comunitárias no Brasil". Technical Report TR01-INTRIG-20220909, Sep. 2020. 
 
 Acknowledgements: Auxílio à Pesquisa Regular da FAPESP (Processo: 18/23101-0).
 
